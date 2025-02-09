@@ -1,0 +1,11 @@
+C:\Users\YOGA 7\Desktop\web3\cosmoshackatom\asusu\target\debug\deps\librand_core-5501bf570949881a.rmeta: C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs
+
+C:\Users\YOGA 7\Desktop\web3\cosmoshackatom\asusu\target\debug\deps\librand_core-5501bf570949881a.rlib: C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs
+
+C:\Users\YOGA 7\Desktop\web3\cosmoshackatom\asusu\target\debug\deps\rand_core-5501bf570949881a.d: C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs
+
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\lib.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\error.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\block.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\impls.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.5.1\src\le.rs:

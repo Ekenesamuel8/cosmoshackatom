@@ -1,0 +1,12 @@
+C:\Users\YOGA 7\Desktop\web3\cosmoshackatom\asusu\target\debug\deps\libsha2-5c67417e28083913.rmeta: C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+C:\Users\YOGA 7\Desktop\web3\cosmoshackatom\asusu\target\debug\deps\sha2-5c67417e28083913.d: C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs
+
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\lib.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\consts.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\soft.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha256\x86.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\soft.rs:
+C:\Users\YOGA\ 7\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.9\src\sha512\x86.rs:
