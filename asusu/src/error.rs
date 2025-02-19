@@ -10,3 +10,8 @@ pub enum ContractError {
     Unauthorized {},
     // Add other custom errors as needed
 }
+impl From<ContractError> for StdError {
+    fn from(err: ContractError) -> Self {
+        StdError::generic_err(err.to_string())
+    }
+}
